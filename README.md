@@ -72,6 +72,7 @@ This repository contains code for training and evaluating two models for traffic
 ## Download the dataset:
 
 1. Place the dataset in the `dataset` folder.
-2. You can download the dataset from [here]([https://www.kaggle.com/datasets/sarthakvajpayee/ai-indian-license-plate-recognition-data/download?datasetVersionNumber=1]).
+2. You can download the dataset from [here](https://www.kaggle.com/datasets/sarthakvajpayee/ai-indian-license-plate-recognition-data/download?datasetVersionNumber=1).
+
 
 
